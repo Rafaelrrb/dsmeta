@@ -2,5 +2,5 @@ Cria o projeto
   yarn create vite frontend --template react-ts
 Instala as dependencias 
   yarn
-Biblioteca de data
+Biblioteca de data(https://github.com/Hacker0x01/react-datepicker)
   yarn add react-datepicker@4.8.0 @types/react-datepicker@4.4.2
