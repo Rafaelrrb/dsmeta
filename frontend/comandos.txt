@@ -1,0 +1,4 @@
+Cria o projeto 
+  yarn create vite frontend --template react-ts
+Instala as dependencias 
+  yarn
